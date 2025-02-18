@@ -12,6 +12,9 @@ Created for checking user's information are validate or not. Methods: generate_u
 generate_password() for creating a validate password, is_strong_password() to check if the password validate, generate_emai() to check if the email is validate counting name and surname, validate_email() to chekc if the email is validate.  
 **All the method are static because they work not depending in UserUtil they will work with also dict. So staticmethod are perfect. 
 
+## UML 
+![Фото](https://github.com/bbzet/Assignment4oop/issues/1#issue-2859280668)
+
 # Testclasses
 Classes are **TestUser, TestUserService, TestUserUtil** all of them has methods of the classes to check classes's methods they are working. 
 
