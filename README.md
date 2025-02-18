@@ -15,5 +15,5 @@ generate_password() for creating a validate password, is_strong_password() to ch
 # Testclasses
 Classes are **TestUser, TestUserService, TestUserUtil** all of them has methods of the classes to check classes's methods they are working. 
 
-## Main.pyv
+## Main.py
 File for checking sample methods of classes.
