@@ -13,7 +13,7 @@ generate_password() for creating a validate password, is_strong_password() to ch
 **All the method are static because they work not depending in UserUtil they will work with also dict. So staticmethod are perfect. 
 
 ## UML 
-![Фото](https://github.com/bbzet/Assignment4oop/issues/1#issue-2859280668)
+![Фото](https://private-user-images.githubusercontent.com/150649109/414087694-e34a4629-8a84-4a84-97ad-26fb995aa21a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5NTczMjUsIm5iZiI6MTczOTk1NzAyNSwicGF0aCI6Ii8xNTA2NDkxMDkvNDE0MDg3Njk0LWUzNGE0NjI5LThhODQtNGE4NC05N2FkLTI2ZmI5OTVhYTIxYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxOVQwOTIzNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjNjZTI4YzA0ZDYyNDNhYzdiMWE2MmExNjc0MTI3M2UwMTg3OWZlOGY5NmRkMzE4YmI4ZTVhOTNiOTc0MTVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YO_zvIdK0UAhePRH_mOXV3XzzH2Q_Mvb7jOTZhEK5XI)
 
 # Testclasses
 Classes are **TestUser, TestUserService, TestUserUtil** all of them has methods of the classes to check classes's methods they are working. 
